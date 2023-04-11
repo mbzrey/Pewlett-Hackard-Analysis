@@ -36,11 +36,6 @@ Mentorship Program eligibility is defined for employees who were born in 1965.
 
 ## Summary
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
-
 There are 72,458 employees close to retirement; yet, only 1,549 are eligible for the Mentorship Program.
 A deeper analysis shows that the Mentorship Program is not well-balanced, as there are no managers eligible for the Mentorship Program:
 
